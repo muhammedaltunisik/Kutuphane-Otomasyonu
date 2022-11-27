@@ -13,15 +13,15 @@ Admin, Uye, Kullanıcı ve Kitap sınıflarının fonksiyonları ve görevleri a
 
 *Admin ve Üye sınıfının ortak özelliklerini tutmak için oluşturulmuş sınıftır. Kalıtım yoluyla her iki sınıf tarafından özellikleri miras alınır*
 
-**1. Yapıcı Fonksiyonu:** Kullanıcı sınıfınından oluşturulan nesnenin ilk özelliklerini belirler .
-**2. GetAdSoyad:** Kullanıcının adını ve soyadını döndürür
-**3. GetHesapAdi:**  Kullanıcının hesap adını döndürür
-**4. GetSifre:** Kullanıcının sifresini döndürür
-**5. GetID:** Kullanıcının ID numarasını döndürür
-**6. SetAdSoyad:** Kullanıcının adını ve soyadını ayarlamayı sağlar
-**7. SetHesapAdi:** Kullanıcının hesap adını ayarlamayı sağlar
-**8. SetSifre:** Kullanıcının sifresini ayarlar
-**9. SetID:** Kullanıcıya elle ID ataması yapar
+*1. Yapıcı Fonksiyonu:* Kullanıcı sınıfınından oluşturulan nesnenin ilk özelliklerini belirler .
+*2. GetAdSoyad:* Kullanıcının adını ve soyadını döndürür
+*3. GetHesapAdi:*  Kullanıcının hesap adını döndürür
+*4. GetSifre:* Kullanıcının sifresini döndürür
+*5. GetID:* Kullanıcının ID numarasını döndürür
+*6. SetAdSoyad:* Kullanıcının adını ve soyadını ayarlamayı sağlar
+*7. SetHesapAdi:* Kullanıcının hesap adını ayarlamayı sağlar
+*8. SetSifre:* Kullanıcının sifresini ayarlar
+*9. SetID:* Kullanıcıya elle ID ataması yapar
 
 #### Admin Sınıfının Sahip Olduğu fonksiyonlar ve Özellikleri
 
