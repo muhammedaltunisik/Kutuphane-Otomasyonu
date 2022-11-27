@@ -10,6 +10,7 @@ Admin, Uye, Kullanıcı ve Kitap sınıflarının fonksiyonları ve görevleri a
 -----------
 
 ### Kullanıcı Sınıfının Sahip Olduğu fonksiyonlar ve Özellikleri
+
 *Admin ve Üye sınıfının ortak özelliklerini tutmak için oluşturulmuş sınıftır. Kalıtım yoluyla her iki sınıf tarafından özellikleri miras alınır*
 
 **1. Yapıcı Fonksiyonu:** Kullanıcı sınıfınından oluşturulan nesnenin ilk özelliklerini belirler .
@@ -37,6 +38,7 @@ Admin, Uye, Kullanıcı ve Kitap sınıflarının fonksiyonları ve görevleri a
 **9. mevcutUyeSayisi:** Kayıtlı üyelerin sayısını döndürür.
 
 #### Üye Sınıfının Sahip Olduğu fonksiyonlar ve Özellikleri
+
 *Kullanıcı sınıfından Türetilmiştir. Üyelerin kitap ödünç alma iade etmeleri veya bilgilerini değiştirmeyi sağlar*
 
 **1. Yapıcı Fonksiyonu:** Üye sınıfınından oluşturulan nesnenin ilk özelliklerini belirler .
