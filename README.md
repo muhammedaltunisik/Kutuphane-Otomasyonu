@@ -41,7 +41,7 @@ Admin, Uye, Kullanıcı ve Kitap sınıflarının fonksiyonları ve görevleri a
 
 *Kullanıcı sınıfından Türetilmiştir. Üyelerin kitap ödünç alma iade etmeleri veya bilgilerini değiştirmeyi sağlar*
 
-*1. Yapıcı Fonksiyonu: Üye sınıfınından oluşturulan nesnenin ilk özelliklerini belirler .
+1. Yapıcı Fonksiyonu: Üye sınıfınından oluşturulan nesnenin ilk özelliklerini belirler .
 2. SetUyetipi: Üye tipini belirler. (Öğrenci,Öğretim Üyesi vs)
 3. SetKitapAlmaSayisi:  Ödünç alabiliceği kitap sayısını belirler.
 4. kitapArama: Ekli olan kitaplar arasın dan arama yapar.
